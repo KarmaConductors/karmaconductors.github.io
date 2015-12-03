@@ -342,6 +342,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title {
   margin-top: 0;
+  font-family: 'Mr De Haviland', cursive;
 }
 
 /* Meta data line below post title */
