@@ -8,13 +8,13 @@ relative_permalinks: true
 
 # Setup
 title:            Karma Conductors
-tagline:          'Working Together To Create Awesome"
+tagline:          'Working Together To Create Awesome'
 description:      'Karma Conductors event coordinators,organizers and consultants. **Working together to create amazing**'
 url:              https://karmaconductors.github.io
 baseurl:          /
 
 author:
-  name:           'Dane Jessee
+  name:           'Dane Jessee'
   url:            https://karmaconductors.github.io
 
 paginate:         5
