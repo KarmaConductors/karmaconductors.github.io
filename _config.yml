@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            'Create'
-tagline:          'Working Together To Create Awesome'
+tagline:          'Working Together To Create Amazing'
 description:      '<strong>Working together to create amazing</strong>'
 url:              https://karmaconductors.github.io
 baseurl:          /
