@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Create
 tagline:          'Working Together To Create Awesome'
-description:      'Karma Conductors event coordinators, organizers and consultants. <strong>Working together to create amazing</strong>'
+description:      '<strong>Working together to create amazing</strong>'
 url:              https://karmaconductors.github.io
 baseurl:          /
 
