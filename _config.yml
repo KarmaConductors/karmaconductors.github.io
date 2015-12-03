@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Karma Conductors
+tagline:          'Working Together To Create Awesome"
+description:      'Karma Conductors event coordinators,organizers and consultants. **Working together to create amazing**'
+url:              https://karmaconductors.github.io
+baseurl:          /
+
+author:
+  name:           'Dane Jessee
+  url:            https://karmaconductors.github.io
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/karmaconductors/karmaconductors.github.io.git
