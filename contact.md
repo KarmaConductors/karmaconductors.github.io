@@ -21,7 +21,9 @@ title: Contact
 
 	<p>
   		<label for="message">Message</label>
-  		<<textarea type="email" name="message" placeholder="Your message" required ></textarea>
+  		<p>
+  			<textarea type="email" name="message" placeholder="Your message" required ></textarea>
+  		</p>
 	</p>
 
 	<p>
