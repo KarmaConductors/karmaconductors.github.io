@@ -34,4 +34,4 @@ Bring us in as a consultant to help out where we can! We bring people together t
 We have a passion and enthusiasm that we bring to the entertainment and event organizing arena that would be hard to match Use us to help make your fun events get even better. We work with the forward thinkers, dreamers and doers. The outcasts and the in crowd. 
 </p>
 
-<h2><strong>work together to create amazing"</strong></h2>
+<h2><strong>work together to create amazing</strong></h2>
