@@ -6,7 +6,6 @@ title: Karma Conductors
 
 Karma Conductors is a business born from necessity, tragedies and shaped to help people <strong>LIVE</strong>. 
 
-![]({{ site.url }}/images/road.jpg)
 
 We create many different events from scratch. Our business reaches out to all walks of life. Your voice matters to us!
 
