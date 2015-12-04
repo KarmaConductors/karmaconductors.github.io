@@ -11,7 +11,7 @@ title: Contact
 	<input type="text" name="_gotcha" style="display:none" />
 	<p>
 		<label for="name">Name</label>
-		<input type="text" name="name" placeholder="Name" required maxlength="30" />
+		<input type="text" name="name" placeholder="Name" required maxlength="30" autofocus />
 	</p>
 
 	<p>
@@ -22,7 +22,7 @@ title: Contact
 	<p>
   		<label for="message">Message</label>
   		<p>
-  			<textarea type="email" name="message" placeholder="Your message" required ></textarea>
+  			<textarea type="email" name="message" placeholder="Your message" required rows="10" cols="50" ></textarea>
   		</p>
 	</p>
 
