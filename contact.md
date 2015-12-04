@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Contact
 ---
 
 <p class="message">
-  I need some bio info from Dangerous
+  Contact Form Goes Here
 </p>
 
 
