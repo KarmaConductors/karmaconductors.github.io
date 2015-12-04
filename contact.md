@@ -21,11 +21,10 @@ title: Contact
 
 	<p>
   		<label for="message">Message</label>
-  		<input type="text" name="message" name="message" placeholder="Enter your message" required  />
+  		<<textarea type="email" name="message" placeholder="Your message" required ></textarea>
 	</p>
 
 	<p>
-	  	<label for="send">Send</label>
 		<input type="submit" value="Send">
 	</p>
 </form>
