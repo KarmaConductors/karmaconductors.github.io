@@ -4,12 +4,34 @@ title: Karma Conductors
 ---
 
 
-At Karma Conductors we are dedicated to organizing events in all Genres of all Sizes. 
+Karma Conductors is a business born from necessity, tragedies and shaped to help people <strong>LIVE</strong>. 
 
-<p class="message">
-  We believe in <strong>community togetherness</strong>
+We create many different events from scratch. Our business reaches out to all walks of life. Your voice matters to us!
+
+<h2>Services</h2>
+
+<ul>
+<li> DJ Services
+<li> Graduation Parties
+<li> Private Parties
+<li> Festivals
+<li> Event Coordinator
+<li> Sports Tournaments
+<li> Event Advertising
+</ul>
+
+
+<p class=message> We will work with you, to make your event stand out </p>
+
+<p>
+Does your business need a way to stand out? Need help selling out a venue? Bring us in! We organize leagues of random sports and bring music to all of our equations. We want your life to slow down when we are involved. Let your hair down, relax and live life to the fullest. You only get one shot at life. Go out and live it! 
 </p>
 
-We work with everyone to shape the overall vision of any project we are involved with. Together we can expect a wildly fun and successful collaboration. From private party's, small town festivals and Major city celebrations. Inaugural or annual we excel at it all. 
+<h3>Have a cool idea?</h3> 
 
-We want to bring out the amazing in every event.
+<p>
+Bring us in as a consultant to help out where we can! We bring people together to create some of the best memories.
+We have a passion and enthusiasm that we bring to the entertainment and event organizing arena that would be hard to match Use us to help make your fun events get even better. We work with the forward thinkers, dreamers and doers. The outcasts and the in crowd. 
+</p>
+
+<h2><strong>work together to create amazing"</strong></h2>
