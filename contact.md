@@ -5,7 +5,7 @@ title: Contact
 <p class="message">Contact us to begin the journey</p>
 
 <p>
-<form id="contactform" action="//formspree.io/justinseiser@gmail.com" method="POST">
+<form id="contactform" action="//formspree.io/KarmaConductors823@gmail.com" method="POST">
 
 	<input type="hidden" name="_subject" value="Website contact" />
 	<input type="text" name="_gotcha" style="display:none" />
